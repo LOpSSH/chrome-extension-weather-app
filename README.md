@@ -1,4 +1,6 @@
-# weather-app
+# chrome-extension-pinterest_downloader
+
+wip/just a weather app for now. You will need to create an api key at OpenWeatherMaps and create a (variant of an) .env file, containing key `VUE_APP_APIKEY`.
 
 ## Project setup
 ```
